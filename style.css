@@ -1,43 +1,221 @@
 *{
     margin: 0;
-    padding: 0;
     border: 0;
+    padding: 0;
     box-sizing: border-box;
+}
+.ColoRawe{
+    color: #FFF;
+font-family: Playfair Display;
+font-size: 144px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin: 0;
+display: block;
 }
 ul, ol{
     list-style: none;
 }
-.ulok{
-    display: grid;
-    grid-template-columns: repeat(3,1fr);
-    grid-template-rows: repeat(3,1fr);
-    gap: 30px;
-    justify-content: center;
+header{
+    background: #012D63;
 }
-.container {
-    width: 1200px;
-    margin: 0 auto;
-    padding: 0 15px;
+.YourdreamNike{
+    color: #FFF;
+font-family: Playfair Display;
+font-size: 72px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin: 0;
+display: block;
 }
-.mark{
-    border: 1px solid #EEE;
-background: #FFF;
-}
-.tea{
-    color: #212121;
+.site{
+    color: #FFF;
 font-family: Roboto;
 font-size: 18px;
 font-style: normal;
-font-weight: 700;
-line-height: 36px; /* 200% */
-letter-spacing: 1.08px;
+font-weight: 400;
+line-height: normal;
+margin: 0;
+display: block;
+width: 508px;
+margin-bottom: 41px;
 }
-.pesh{
-    color: #757575;
-font-family: Roboto;
-font-size: 16px;
+.cr{
+    color: #FFF;
+font-family: PT Serif;
+font-size: 48px;
 font-style: normal;
 font-weight: 400;
-line-height: 30px; /* 187.5% */
-letter-spacing: 0.48px;
+line-height: normal;
+margin: 0;
+display: block;
+}
+.emblema{
+    margin: 0 ;
+    width: 160px;
+height: 120px;
+flex-shrink: 0;
+display: block;
+}
+.f{
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.f{
+    margin-right: 29px;
+}
+.ff{
+    color: #C7C7C7;
+font-family: Roboto;
+font-size: 24px;
+font-style: normal;
+font-weight: 300;
+line-height: normal;
+}
+.ff{
+    margin-right: 29px;
+}
+.ualink{
+    color: #DCDCDC;
+    font-family: Roboto;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+}
+.sectia{
+    background-image: url(Group\ 37\ \(1\)\ 1fon.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 91px;
+    padding-bottom: 183px;
+}
+.baton{
+    border-radius: 10px;
+background: #8E32C6;
+color: #FFF;
+font-family: Roboto;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+
+}
+.puhka{
+    color: #FFF;
+font-family: Roboto;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.gmail{
+    color: #FFF;
+font-family: Roboto;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-decoration-line: underline;
+}
+.vseravno{
+    color: #FFF;
+font-family: Roboto;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.ua{
+    display: inline;
+}
+.podval{
+    background: #021635;
+}
+.head{
+    display: flex;
+}
+.conte{
+    width: 1140px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+.sectia2{
+    background-image: url(Group\ 2\ 1fon4.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 21px;
+    padding-bottom: 37px;
+}
+.orderh2{
+    color: #FFF;
+font-family: Playfair Display;
+font-size: 48px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-align: center;
+margin-bottom: 33px;
+}
+.inputfor{
+    display: block;
+    width: 580px;
+    height: 50px;
+    border-radius: 50px;
+background: #FFF;
+padding-left: 24px;
+color: #959595;
+font-family: Roboto;
+font-size: 28px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.inputfor:not(:last-child){
+margin-bottom: 19px;
+}
+.knopka{
+    width: 248px;
+    height: 68px;
+    flex-shrink: 0;
+    border-radius: 16px;
+background: #8E32C6;
+color: #FFF;
+font-family: Roboto;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.forum{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0 auto;
+}
+.big{
+    width: 690px;
+height: 60px;
+flex-shrink: 0;
+}
+.formspan{
+    position: relative;
+}
+.enter{
+    color: #8D8D8D;
+font-family: Roboto;
+font-size: 28px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+position: absolute;
+top: 13px;
+right: 79px;
 }
