@@ -9,7 +9,7 @@ a{
 }
 .ColoRawe{
     color: #FFF;
-font-family: Playfair Display;
+font-family: "Playfair Display";
 font-size: 144px;
 font-style: normal;
 font-weight: 400;
@@ -28,6 +28,9 @@ header{
 .flex{
     display: flex;
     align-items: center;
+    width: 1140px;
+    padding: 0 15px;
+    margin: 0 auto;
 }
 .xelf{
     margin-right: 152px;
@@ -40,7 +43,7 @@ header{
 }
 .YourdreamNike{
     color: #FFF;
-font-family: Playfair Display;
+font-family: "Playfair Display";
 font-size: 72px;
 font-style: normal;
 font-weight: 400;
@@ -62,7 +65,7 @@ margin-bottom: 41px;
 }
 .cr{
     color: #FFF;
-font-family: PT Serif;
+font-family: "PT Serif";
 font-size: 48px;
 font-style: normal;
 font-weight: 400;
@@ -97,7 +100,7 @@ font-weight: 300;
 line-height: normal;
 }
 .ff{
-    margin-right: 29px;
+    margin-right: 20px;
 }
 .ualink{
     color: #DCDCDC;
@@ -108,7 +111,7 @@ line-height: normal;
     line-height: normal;
 }
 .sectia{
-    background-image: url(Group\ 37\ \(1\)\ 1fon.png);
+    background-image: url(Group37\(1\)1fon.png);
     background-repeat: no-repeat;
     background-size: cover;
     padding-top: 91px;
@@ -123,7 +126,8 @@ font-size: 24px;
 font-style: normal;
 font-weight: 400;
 line-height: normal;
-
+width: 254px;
+height: 67px;
 }
 .puhka{
     color: #FFF;
@@ -165,7 +169,7 @@ line-height: normal;
     padding: 0 15px;
 }
 .sectia2{
-    background-image: url(Group\ 2\ 1fon4.png);
+    background-image: url(Group21fon4.png);
     background-repeat: no-repeat;
     background-size: cover;
     padding-top: 21px;
@@ -173,7 +177,7 @@ line-height: normal;
 }
 .orderh2{
     color: #FFF;
-font-family: Playfair Display;
+font-family: "Playfair Display";
 font-size: 48px;
 font-style: normal;
 font-weight: 400;
@@ -238,7 +242,7 @@ top: 13px;
 right: 79px;
 }
 .hero1{
-    background-image: url(Group\ 8\ 1fon2.png);
+    background-image: url(Group81fon2.png);
     background-size: cover;
     background-repeat: no-repeat;
     padding: 105px 0;
@@ -256,7 +260,7 @@ right: 79px;
     margin: 0 auto;
     color: #FFF;
 text-align: center;
-font-family: Playfair Display;
+font-family: "Playfair Display";
 font-size: 36px;
 font-style: normal;
 font-weight: 400;
@@ -269,7 +273,7 @@ height: 102px;
 flex-shrink: 0;
     color: #FFF;
 text-align: center;
-font-family: Playfair Display;
+font-family: "Playfair Display";
 font-size: 36px;
 font-style: normal;
 font-weight: 400;
@@ -281,7 +285,7 @@ height: 103px;
 flex-shrink: 0;
     color: #FFF;
 text-align: center;
-font-family: Playfair Display;
+font-family: "Playfair Display";
 font-size: 36px;
 font-style: normal;
 font-weight: 400;
@@ -309,7 +313,7 @@ height: 346px;
 background: #FFF;
 }
 .reviews{
-    background-image: url(buket\ 2.png), url(Group\ 6\ 1fon3.png);
+    background-image: url(buket2.png), url(Group61fon3.png);
     background-position:left, center;
     background-size:contain, cover;
     background-repeat: no-repeat;
@@ -319,7 +323,7 @@ background: #FFF;
     .reviews-zag{
         color: #FFF;
     text-align: center;
-    font-family: Playfair Display;
+    font-family: "Playfair Display";
     font-size: 48px;
     font-style: normal;
     font-weight: 400;
@@ -465,7 +469,7 @@ background: #FFF;
       
       .footertext3{
         color: #FFF;
-      font-family: PT Serif;
+      font-family: "PT Serif";
       font-size: 24px;
       font-style: normal;
       font-weight: 400;
