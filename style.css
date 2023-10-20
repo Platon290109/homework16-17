@@ -396,3 +396,85 @@ background: #FFF;
     .reviews-block{
         display: flex;
     }
+    .footer{
+        background: #021635;
+        padding-bottom: 45px;
+      padding-top: 50px;
+      }
+      
+      
+      .footertext{
+        color: #FFF;
+      font-family: Roboto;
+      font-size: 24px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: normal;
+      }
+      
+      .footerlink{
+        color: #FFF;
+      font-family: Roboto;
+      font-size: 24px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: normal;
+      text-decoration-line: underline;
+      }
+      
+      .footerlistitem{
+        display: flex;
+        justify-content: space-between;
+        
+      }
+      
+      .footerlistitem:not(:last-child){
+        margin-bottom: 10px;
+      }
+      
+      .footerlist{
+       border-bottom: 1px solid #9B9B9B;
+       padding-bottom: 20px;
+      }
+      
+      .container2{
+        padding-top: 24px;
+        display: flex;
+        justify-content: space-between;
+      }
+      
+      
+      .footertext2{
+        color: #FFF;
+      font-family: Roboto;
+      font-size: 18px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: normal;
+      
+      }
+      .footertext2:not(:last-child){
+        margin-bottom: 7px;
+      }
+      .footerlogo{
+        width: 108px;
+        height: 81px;
+        flex-shrink: 0;
+      }
+      
+      
+      .footertext3{
+        color: #FFF;
+      font-family: PT Serif;
+      font-size: 24px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: normal;
+      margin: 0 auto;
+      }
+      
+      .container3{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
